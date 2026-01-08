@@ -21,7 +21,7 @@
                             "selector": "#pg-modal"
                         },
                         "parent": {
-                            "selector": "#pg-shadow-host"
+                            "selector": "#pg-host-shadow-root"
                         }
                     }
                 ]
